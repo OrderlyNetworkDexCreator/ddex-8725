@@ -34,5 +34,5 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
-  "VITE_TRADING_VIEW_COLOR_CONFIG": ""
+  "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#eccb27\",\"downColor\":\"#0b27b7\",\"pnlUpColor\":\"#24705d\",\"pnlDownColor\":\"#7e353b\",\"chartBG\":\"#788ec9\"}"
 };
